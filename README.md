@@ -56,7 +56,7 @@ With 4+ years of industry experience at **Siemens**, I specialize in building **
 ## 📬 Let’s Connect!
 
 - 📧 Email: mauryadiksha0@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/diksha-maurya/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/diksha-maurya2/)  
 - 📜 [Resume](https://)
 
 Thanks for visiting! 💙  
