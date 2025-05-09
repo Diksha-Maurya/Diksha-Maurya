@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Diksha-Maurya&color=blue)
+
+
 # 🚀 Welcome to My GitHub Profile!
 
 Hi there! I'm **Diksha Maurya**, a passionate developer, AI enthusiast, and cloud practitioner currently pursuing my Master’s in Computer Science at **NC State University**.  
