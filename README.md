@@ -43,12 +43,6 @@ With 4+ years of industry experience at **Siemens**, I specialize in building **
 
 ---
 
-## 📚 What I’m Working On
-- 🧠 CUDA implementation of Tensor-Times-Matrix (TTM) algorithm
-- ⚙️ Working part-time at **Precision Sustainable Agriculture (PSA)** using **React**  
-
----
-
 ## 🎯 Goals for 2025
 - Land a full-time job as a Software Developer, or in AI/ML or Systems Engineering
 - Contribute to Open Source Systems Projects
