@@ -54,9 +54,9 @@ With 4+ years of industry experience at **Siemens**, I specialize in building **
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha-Maurya&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha-Maurya&layout=compact&theme=radical)
 
-![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diksha-Maurya&show_icons=true&theme=tokyonight)
+![Diksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diksha-Maurya&show_icons=true&theme=radical)
 
 
 ## 📬 Let’s Connect!
