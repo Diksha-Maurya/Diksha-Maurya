@@ -3,7 +3,8 @@
 
 # 🚀 Welcome to My GitHub Profile!
 
-Hi there! I'm **Diksha Maurya**, a passionate developer, AI enthusiast, and cloud practitioner currently pursuing my Master’s in Computer Science at **NC State University**.  
+Hi there! I'm **Diksha Maurya**, a passionate developer, AI enthusiast, and cloud practitioner with a Master's in Computer Science from **NC State University**.  
+
 With 4+ years of industry experience at **Siemens**, I specialize in building **scalable AI applications**, working with **LLMs**, and applying **cloud-native tools** in both academic and industry settings.
 
 ---
