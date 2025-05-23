@@ -41,6 +41,7 @@ With 4+ years of industry experience at **Siemens**, I specialize in building **
 
 ### 🧱 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
