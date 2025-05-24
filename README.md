@@ -3,9 +3,9 @@
 
 # Hi 👋, I'm Diksha Maurya
 
-I'm a passionate developer, AI enthusiast, and cloud practitioner with a Master's in Computer Science from **NC State University**.  
+I'm a passionate full-stack developer, AI enthusiast, and cloud practitioner with a Master's in Computer Science from **NC State University**.  
 
-With 4+ years of industry experience at **Siemens**, I specialize in building **scalable AI applications**, working with **LLMs**, and applying **cloud-native tools** in both academic and industry settings.
+With 4+ years of industry experience at **Siemens**, I specialize in building **scalable AI applications**, leveraging **LLMs**, and applying **cloud-native tools** in both academic and industry settings.
 
 ---
 
