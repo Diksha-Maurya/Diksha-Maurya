@@ -5,8 +5,6 @@
 
 I am a Software Engineer specializing in AI/ML Performance & Systems Engineering, with a strong professional background in full-stack development. I am completing my Master's in Computer Science at **NC State University**.  
 
-With 4+ years of industry experience at **Siemens**, I specialize in building **scalable AI applications**, leveraging **LLMs**, and applying **cloud-native tools** in both academic and industry settings.
-
 ---
 
 ## 🧰 Tech Stack & Tools
