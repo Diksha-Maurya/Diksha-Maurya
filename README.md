@@ -45,13 +45,6 @@ I am a Software Engineer specializing in AI/ML Performance & Systems Engineering
 
 ---
 
-##
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha-Maurya&layout=compact&theme=radical) 
-
-
 ## 📬 Let’s Connect!
 
 - 📧 Email: mauryadiksha0@gmail.com  
