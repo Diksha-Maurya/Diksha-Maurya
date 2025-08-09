@@ -40,7 +40,7 @@ I am a Software Engineer specializing in AI/ML Performance & Systems Engineering
 ---
 
 ## 🎯 Goals for 2025
-- Land a full-time job as a Software Developer, or in AI/ML or Systems Engineering
+- Land a full-time job in the domain of AI/ML Perf. and Systems Engineering
 - Contribute to Open Source Systems Projects
 - Grow deeper into scalable distributed systems  
 
