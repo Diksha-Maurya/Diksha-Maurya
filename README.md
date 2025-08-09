@@ -53,4 +53,3 @@ I am a Software Engineer specializing in AI/ML Performance & Systems Engineering
 - 📜 [Resume](https://drive.google.com/file/d/1OqfgsSqvDT8x39XaTVBZK3_uBdvLVk6F/view?usp=sharing)
 
 Thanks for visiting! 💙  
-*“Keep learning. Keep building. Stay curious.”*
