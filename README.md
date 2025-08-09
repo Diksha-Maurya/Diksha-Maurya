@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Diksha Maurya
 
-I am a Software Engineer specializing in AI/ML Performance & Systems Engineering, with a strong professional background in full-stack development. I just finished my Master's in Computer Science at **NC State University**.  
+I am a Software Engineer specializing in AI/ML Performance & Systems Engineering. I just finished my Master's in Computer Science at **NC State University**.  
 
 ---
 
