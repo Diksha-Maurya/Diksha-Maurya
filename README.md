@@ -52,4 +52,4 @@ I am a Software Engineer specializing in AI/ML Performance & Systems Engineering
 - 💼 [LinkedIn](https://www.linkedin.com/in/diksha-maurya2/)  
 - 📜 [Resume](https://drive.google.com/file/d/1OqfgsSqvDT8x39XaTVBZK3_uBdvLVk6F/view?usp=sharing)
 
-Thanks for visiting! 💙  
+Thanks for visiting !!
