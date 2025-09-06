@@ -42,7 +42,7 @@ I am a Software Engineer specializing in AI/ML Performance & Systems Engineering
 
 ## 🎯 Goals for 2025
 - Land a full-time job in the domain of AI/ML Perf. and Systems Engineering
-- Contribute to Open Source Systems Projects
+- [Continue and complete my contributions to open-source systems projects](https://github.com/Diksha-Maurya/transformers) 
 - Grow deeper into scalable distributed systems  
 
 ---
